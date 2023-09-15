@@ -6,7 +6,7 @@ import defaultTheme from 'tailwindcss/defaultTheme';
 import animationDelayPlugin from 'tailwindcss-animation-delay';
 import radixPlugin from 'tailwindcss-radix';
 
-import { assemblyColors } from './colors';
+import { designSystemColors } from './colors';
 
 /**
  * If you need one off variants that tailwind doesn't provide out of the box use,
@@ -20,7 +20,7 @@ export default {
   theme: {
     // Intentionally override tailwind colors so that we're enforced
     // to use the design token colors
-    colors: assemblyColors,
+    colors: designSystemColors,
     extend: {
       boxShadow: {
         card: '0px 4px 6px -2px rgba(0, 0, 0, 0.05), 0px 10px 15px -3px rgba(0, 0, 0, 0.10), 0px 0px 0px 1px rgba(0, 0, 0, 0.05)',

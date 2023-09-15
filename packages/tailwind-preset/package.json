@@ -21,7 +21,7 @@
   "devDependencies": {
     "@rootsrk/tsconfig": "workspace:*",
     "eslint": "8.47.0",
-    "eslint-plugin-assembly-web": "workspace:*",
+    "eslint-plugin-rootsrk": "workspace:*",
     "typescript": "5.1.6",
     "vite": "4.4.9",
     "vite-plugin-checker": "0.6.2",

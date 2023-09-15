@@ -1,4 +1,4 @@
-export const assemblyColors = {
+export const designSystemColors = {
   transparent: 'transparent',
   current: 'currentColor',
 

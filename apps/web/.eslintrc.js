@@ -3,7 +3,7 @@
 /** @type {import("eslint").Linter.Config} */
 module.exports = {
   root: true,
-  extends: ['plugin:assembly-web/app'],
+  extends: ['plugin:rootsrk/app'],
   parserOptions: {
     tsconfigRootDir: __dirname,
     project: './tsconfig.json',

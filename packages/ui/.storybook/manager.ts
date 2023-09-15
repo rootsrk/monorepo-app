@@ -4,8 +4,7 @@ import { create } from '@storybook/theming';
 addons.setConfig({
   theme: create({
     base: 'light',
-    brandTitle: 'Assembly UI',
-    brandImage: '/AssemblyLogo.svg',
+    brandTitle: "@rootsrk's UI components",
     brandTarget: '_self',
     fontBase: "'Inter', 'sans-serif'",
     fontCode: "'JetBrains Mono', monospace",

@@ -4,7 +4,7 @@
 module.exports = {
   root: true,
   extends: [
-    'plugin:assembly-web/reactUILibrary',
+    'plugin:rootsrk/reactUILibrary',
     'plugin:storybook/csf-strict',
     'plugin:storybook/recommended',
   ],

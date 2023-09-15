@@ -22,12 +22,12 @@
     "react-intl": "6.4.6"
   },
   "devDependencies": {
-    "@rootsrk/tailwind-preset": "workspace:*",
-    "@rootsrk/tsconfig": "workspace:*",
     "@babel/core": "7.22.17",
     "@formatjs/cli": "6.1.5",
     "@formatjs/ts-transformer": "3.13.5",
     "@mdx-js/react": "2.3.0",
+    "@rootsrk/tailwind-preset": "workspace:*",
+    "@rootsrk/tsconfig": "workspace:*",
     "@storybook/addon-a11y": "7.4.0",
     "@storybook/addon-actions": "7.4.0",
     "@storybook/addon-backgrounds": "7.4.0",
@@ -60,7 +60,7 @@
     "concurrently": "8.2.0",
     "cssnano": "6.0.1",
     "eslint": "8.47.0",
-    "eslint-plugin-assembly-web": "workspace:*",
+    "eslint-plugin-rootsrk": "workspace:*",
     "eslint-plugin-storybook": "0.6.13",
     "http-server": "14.1.1",
     "playwright": "1.37.1",
