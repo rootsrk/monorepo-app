@@ -1,2 +1,2 @@
-export { Card } from './Card';
+export { ReviewCard } from './Reviews';
 export { translations } from './translations';

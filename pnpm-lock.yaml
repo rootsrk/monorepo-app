@@ -246,9 +246,15 @@ importers:
 
   packages/ui:
     dependencies:
+      '@heroicons/react':
+        specifier: 2.0.18
+        version: 2.0.18(react@18.2.0)
       react-intl:
         specifier: 6.4.6
         version: 6.4.6(react@18.2.0)(typescript@5.1.6)
+      tailwind-merge:
+        specifier: 1.14.0
+        version: 1.14.0
       zod:
         specifier: 3.21.4
         version: 3.21.4

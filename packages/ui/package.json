@@ -19,7 +19,9 @@
     "test:typeCheck": "tsc"
   },
   "dependencies": {
-    "react-intl": "6.4.6"
+    "@heroicons/react": "2.0.18",
+    "react-intl": "6.4.6",
+    "tailwind-merge": "1.14.0"
   },
   "devDependencies": {
     "@babel/core": "7.22.17",
