@@ -1,2 +1,2 @@
-export { ReviewCard } from './Reviews';
+export { ReviewCard } from './ReviewCard';
 export { translations } from './translations';
