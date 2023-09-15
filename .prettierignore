@@ -1,0 +1,52 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+
+# output
+.next/
+out/
+build/
+dist/
+dist-ssr/
+playwright-report/
+storybook-static
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+logs
+*.log
+
+# # local env files
+# .env.local
+# .env.development.local
+# .env.test.local
+# .env.production.local
+
+# turbo
+.turbo
+
+# Playwright
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# Editor directories and files
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Prettier reformats code blocks inside Markdown, which affects rendered output
+*.md
+
+pnpm-lock.yaml

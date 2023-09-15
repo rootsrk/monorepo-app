@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "@rootsrk/tsconfig/app",
+  "include": ["app", ".eslintrc.js"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "types": [
+      "vite/client",
+      "vite-plugin-svgr/client",
+    ]
+  },
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ],
+  "composite": true
+}

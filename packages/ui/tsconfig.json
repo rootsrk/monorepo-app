@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "@rootsrk/tsconfig/react-library",
+  "include": ["lib", "*.d.ts", ".eslintrc.js", "types/global.d.ts"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "types": [
+      "vite/client",
+      "type-fest",
+      "vite-plugin-svgr/client",
+      "@storybook/testing-library",
+      "testing-library__jest-dom"
+    ]
+  },
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "@rootsrk/tsconfig/node",
+  "include": [
+    "vite.config.ts",
+    "package.json",
+    "tests",
+    "playwright.config.ts",
+    "config",
+    "types"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@rootsrk/tsconfig",
+  "version": "1.0.0",
+  "private": true,
+  "files": [
+    "app.json",
+    "node.json",
+    "react-library.json"
+  ]
+}

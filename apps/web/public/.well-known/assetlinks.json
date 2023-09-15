@@ -1,0 +1,26 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joinassembly.assemblymobile",
+      "sha256_cert_fingerprints": [
+        "8E:84:6F:C7:85:0B:C3:1D:41:C9:81:75:30:95:2E:7D:47:83:E7:68:CB:9D:F7:B1:92:90:7F:0A:29:BC:80:CE"
+      ]
+    },
+    "exclude": [
+      {
+        "path": "/login"
+      },
+      {
+        "path": "/verify-email"
+      },
+      {
+        "path": "/workspaces"
+      },
+      {
+        "path": "/join"
+      }
+    ]
+  }
+]

@@ -1,0 +1,361 @@
+{
+  "smartling": {
+    "string_format": "icu",
+    "translate_paths": [
+      {
+        "instruction": "*/description",
+        "key": "{*}/message",
+        "path": "*/message"
+      }
+    ],
+    "variants_enabled": true
+  },
+  "+ROPwm": {
+    "message": "Announcement thumbnail"
+  },
+  "/NajSx": {
+    "message": "Choose background color"
+  },
+  "/R4vHa": {
+    "message": "Add a rule:"
+  },
+  "/d1RNY": {
+    "message": "Add people or rules placeholder"
+  },
+  "0eXHcQ": {
+    "message": "Send a push notification to your audience when this announcement is created."
+  },
+  "0rzFZS": {
+    "message": "is true"
+  },
+  "19BOio": {
+    "message": "posted in"
+  },
+  "2SZ33x": {
+    "message": "Settings & controls"
+  },
+  "3tHaZ/": {
+    "message": "Given in {month}"
+  },
+  "450Fty": {
+    "message": "None"
+  },
+  "47FYwb": {
+    "message": "Cancel"
+  },
+  "4D5HRd": {
+    "message": "Are you sure you want to leave without finishing this announcement?"
+  },
+  "4euen7": {
+    "message": "Answer anytime"
+  },
+  "64pE89": {
+    "message": "Deactivated User"
+  },
+  "70tzXl": {
+    "message": "Select Reward"
+  },
+  "7BL80V": {
+    "message": "Replies and reactions have been turned off"
+  },
+  "875mvK": {
+    "message": "EARNED"
+  },
+  "8XxGKP": {
+    "message": "Copy announcement link"
+  },
+  "9+Ddtu": {
+    "message": "Next"
+  },
+  "9OuUCL": {
+    "message": "Get help"
+  },
+  "9a9+ww": {
+    "message": "Title"
+  },
+  "9d9pgm": {
+    "message": "This represents your earned balance"
+  },
+  "9e1C77": {
+    "message": "Notify on launch"
+  },
+  "AWiTDV": {
+    "message": "Your work will not be saved. This post will still exist, but it won’t be pinned as announcement to your audience’s feed."
+  },
+  "AX8eCS": {
+    "message": "No results. Please try another search."
+  },
+  "Bpz0xZ": {
+    "message": "Answer now"
+  },
+  "DR5Iu/": {
+    "message": "Choose a {rule}"
+  },
+  "DeCDPs": {
+    "message": "No results for this search."
+  },
+  "DwMp0X": {
+    "message": "Customize & style"
+  },
+  "EDZNX1": {
+    "message": "No description found"
+  },
+  "EJ8mg/": {
+    "message": "Step {step}"
+  },
+  "GeWKz5": {
+    "message": "{currency} {remainingAllowance} left to give in {month}"
+  },
+  "Gw6A+4": {
+    "message": "No answer"
+  },
+  "HXhsPF": {
+    "message": "View insights"
+  },
+  "J456i4": {
+    "message": "Allow replies on this post"
+  },
+  "JJNc3c": {
+    "message": "Previous"
+  },
+  "JXdbo8": {
+    "message": "Done"
+  },
+  "KFjD/N": {
+    "message": "Cost:"
+  },
+  "KvBw23": {
+    "message": "See who has permission to collaborate and view this collection."
+  },
+  "LXxsbk": {
+    "message": "Anonymous"
+  },
+  "Lp3DO2": {
+    "message": "Title is required"
+  },
+  "MKLJP8": {
+    "message": "Leave announcement"
+  },
+  "MVp6ju": {
+    "message": "Can’t find task"
+  },
+  "Md9HC+": {
+    "message": "Send notifications to the places your audience works."
+  },
+  "O8Kfqk": {
+    "message": "Save announcement"
+  },
+  "OhIqLr": {
+    "message": "Edited"
+  },
+  "Orc8Zk": {
+    "message": "Distribution"
+  },
+  "PV0TiO": {
+    "message": "This is the number of people in your audience who have viewed this announcement at least once."
+  },
+  "Pzwk7p": {
+    "message": "{timeCreatedAt} ago"
+  },
+  "RA/vS9": {
+    "message": "Files(s) deleted"
+  },
+  "SSt/6k": {
+    "message": "Email your audience when this announcement is created."
+  },
+  "THIneq": {
+    "message": "45 character limit"
+  },
+  "TiR/Hq": {
+    "message": "Saving..."
+  },
+  "UyDvH7": {
+    "message": "Refreshes to {currency} {totalAllowance} on {month} 1"
+  },
+  "VCGquG": {
+    "message": "Announcement Center"
+  },
+  "VFHHgv": {
+    "message": "left"
+  },
+  "VOp7ky": {
+    "message": "Where do you want notify your audience?"
+  },
+  "Vu1CEU": {
+    "message": "Go to announcement"
+  },
+  "WUU79O": {
+    "message": "Go to full post"
+  },
+  "Yb3tE6": {
+    "message": "This represents your monthly allowance and how much you’ve given this month. You have {totalAllowance} {currency} each month to give. Spread some joy!"
+  },
+  "ZDwklk": {
+    "message": "isn't"
+  },
+  "Zkho4l": {
+    "message": "eg. New PTO Policy"
+  },
+  "Zx1w1e": {
+    "message": "edited"
+  },
+  "aKlxke": {
+    "message": "Don’t see who you’re looking for? Type an email to invite a new teammate."
+  },
+  "aP909H": {
+    "message": "Add people or rules..."
+  },
+  "bYfB9p": {
+    "message": "On launch"
+  },
+  "bZenNC": {
+    "message": "Description (optional)"
+  },
+  "bmZUYW": {
+    "message": "End announcement"
+  },
+  "bz4Mm+": {
+    "message": "Nothing found"
+  },
+  "ctE5Aj": {
+    "message": "Create announcement"
+  },
+  "cyR7Kh": {
+    "message": "Back"
+  },
+  "d/fRcX": {
+    "message": "Seen"
+  },
+  "dn6K1W": {
+    "message": "Everyone has seen your announcement, congratulations!"
+  },
+  "fKzvcn": {
+    "message": "ALLOWANCE"
+  },
+  "fXdkiI": {
+    "message": "is"
+  },
+  "gk3x/E": {
+    "message": "more"
+  },
+  "gln82z": {
+    "message": "Copy link to share"
+  },
+  "h9h1y6": {
+    "message": "Replies have been turned off"
+  },
+  "hvCo0f": {
+    "message": "View replies"
+  },
+  "i/O7gT": {
+    "message": "Mobile app"
+  },
+  "iTQKmX": {
+    "message": "This is the number of times that this announcement has been viewed in total."
+  },
+  "j3vBX5": {
+    "message": "Click to view file"
+  },
+  "lRgMMu": {
+    "message": "Go back to old Assembly"
+  },
+  "lplhM5": {
+    "message": "Allow reactions on this post"
+  },
+  "mkf7D6": {
+    "message": "Toggle switch"
+  },
+  "nPxl7v": {
+    "message": "Unseen"
+  },
+  "nWEAnX": {
+    "message": "Title must be 45 characters or less"
+  },
+  "nh6oB9": {
+    "message": "Your earned balance"
+  },
+  "o/8JwO": {
+    "message": "Mark as seen"
+  },
+  "o1KsBL": {
+    "message": "Announcement Insights"
+  },
+  "piq7j8": {
+    "message": "Edit announcement"
+  },
+  "pk+Fyy": {
+    "message": "{count,plural,=0{} one{attachment} other{attachments}}"
+  },
+  "q0mgSt": {
+    "message": "Unique Viewers"
+  },
+  "qB/sCv": {
+    "message": "Post interaction settings"
+  },
+  "qiYn0p": {
+    "message": "Welcome to the new experience!"
+  },
+  "rbrahO": {
+    "message": "Close"
+  },
+  "rw+8eY": {
+    "message": "Total Views"
+  },
+  "sy+pv5": {
+    "message": "Email"
+  },
+  "thJnXm": {
+    "message": "is false"
+  },
+  "uQBwfk": {
+    "message": "When turned off, existing replies and reactions will be hidden."
+  },
+  "uQGyjD": {
+    "message": "People with access"
+  },
+  "uSORM2": {
+    "message": "remove {chipLabel}"
+  },
+  "uX6eKe": {
+    "message": "React"
+  },
+  "uXC8QN": {
+    "message": "See who has viewed your announcement and who hasn’t."
+  },
+  "ug7T4L": {
+    "message": "Browse Rewards"
+  },
+  "v2DLxV": {
+    "message": "eg. We’ve released the annual update to our policy. Please check out this post to learn more"
+  },
+  "vrQErH": {
+    "message": "No results, please try another search."
+  },
+  "wEQDC6": {
+    "message": "Edit"
+  },
+  "x4oqkn": {
+    "message": "Can’t view anymore"
+  },
+  "xAtPaf": {
+    "message": "No one has seen this announcement yet. When they do, they will appear here."
+  },
+  "xj+IYa": {
+    "message": "Share Collection"
+  },
+  "xmcVZ0": {
+    "message": "Search"
+  },
+  "xqYAfL": {
+    "message": "Add “{email}” to this collection"
+  },
+  "y9y6sj": {
+    "message": "Preview list"
+  },
+  "zG0jzb": {
+    "message": "Last reply {timeAgo} ago"
+  },
+  "zkZXV2": {
+    "message": "These are good things!"
+  }
+}
