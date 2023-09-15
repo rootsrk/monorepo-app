@@ -9,5 +9,14 @@
       }
     ],
     "variants_enabled": true
+  },
+  "Wp2bK6": {
+    "message": "{rating} out of 5 stars"
+  },
+  "dUxyza": {
+    "message": "Reviews"
+  },
+  "rA2umh": {
+    "message": "See all {reviewCount} reviews"
   }
 }

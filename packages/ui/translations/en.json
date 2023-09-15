@@ -1,1 +1,32 @@
-{}
+{
+  "Wp2bK6": [
+    {
+      "type": 1,
+      "value": "rating"
+    },
+    {
+      "type": 0,
+      "value": " out of 5 stars"
+    }
+  ],
+  "dUxyza": [
+    {
+      "type": 0,
+      "value": "Reviews"
+    }
+  ],
+  "rA2umh": [
+    {
+      "type": 0,
+      "value": "See all "
+    },
+    {
+      "type": 1,
+      "value": "reviewCount"
+    },
+    {
+      "type": 0,
+      "value": " reviews"
+    }
+  ]
+}

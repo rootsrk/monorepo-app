@@ -8,8 +8,8 @@ const messages = defineMessages({
     id: 'dUxyza',
   },
   outOf5Stars: {
-    defaultMessage: ' out of 5 stars',
-    id: 'CKmiyC',
+    defaultMessage: '{rating} out of 5 stars',
+    id: 'Wp2bK6',
   },
   seeAllReviews: {
     defaultMessage: 'See all {reviewCount} reviews',
@@ -34,7 +34,11 @@ export function ReviewCard({
       <div className="flex items-center">
         <p className="text-sm text-gray-7">
           {rating}
-          <span className="sr-only">{formatMessage(messages.outOf5Stars)}</span>
+          <span className="sr-only">
+            {formatMessage(messages.outOf5Stars, {
+              rating,
+            })}
+          </span>
         </p>
         <div className="ml-1 flex items-center">
           {[0, 1, 2, 3, 4].map((rating) => (
