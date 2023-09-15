@@ -42,6 +42,7 @@ export default defineConfig(({ mode, command }) => {
       { ...viteImagemin(), apply: 'build' },
     ],
 
+    // https://formatjs.io/docs/guides/advanced-usage#react-intl-without-parser-40-smaller
     resolve: {
       alias: {
         '@formatjs/icu-messageformat-parser':
