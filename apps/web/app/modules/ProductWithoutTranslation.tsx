@@ -14,6 +14,7 @@ export function ProductWithoutTranslation() {
   return (
     <div className="bg-gray-1">
       <div className="pb-16 pt-6 sm:pb-24">
+        {/* Breadcrumbs */}
         <nav
           aria-label="Breadcrumb"
           className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8"
